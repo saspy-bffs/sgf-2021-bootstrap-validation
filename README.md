@@ -3,13 +3,13 @@
 # A Framework for Simple and Efficient Bootstrap Validation in SAS, with Examples
 
 
-### Materials from an invited talk/paper for [SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum.html), held virtually on May 18-20, 2021.
+### Materials from an invited talk/paper for [SAS Global Forum](https://github.com/sascommunities/sas-global-forum-2021), held virtually on May 18-20, 2021.
 
 Materials provided:
 
 - [Full conference paper](Paper-SGF2021-Simple_and_Efficient_Bootstrap_Validation.pdf)
 
-- [Slides](Slides-SGF2021-Simple_and_Efficient_Bootstrap_Validation.pdf) used in 20-minute pre-recorded video at [[URL TO BE ADDED]]
+- [Slides](Slides-SGF2021-Simple_and_Efficient_Bootstrap_Validation.pdf) used in 20-minute pre-recorded video at [https://www.youtube.com/watch?v=Nrn7sFY2Zss](https://www.youtube.com/watch?v=Nrn7sFY2Zss)
 
 - Four Examples:
   * Example 1 - PROC LOGISTIC (running example in conference paper and video) in [Jupyter Notebook](examples/Example1-PROC_LOGISTIC-SGF2021-Simple_and_Efficient_Bootstrap_Validation.ipynb) and [.sas](examples/Example1-PROC_LOGISTIC-SGF2021-Simple_and_Efficient_Bootstrap_Validation.sas) format
